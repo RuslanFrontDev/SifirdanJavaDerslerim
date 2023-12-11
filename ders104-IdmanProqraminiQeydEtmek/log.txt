@@ -1,0 +1,9 @@
+Idman Proqramlari..
+Burpee Sayisi: 50 
+Pusup Sayisi: 50 
+Situp Sayisi: 50 
+Squat Sayisi: 50 
+1. islem------------>>>>>>>> Hereketiniz: Burpee Sayi: 50 
+1. islem------------>>>>>>>> Hereketiniz: Pushup Sayi: 50 
+1. islem------------>>>>>>>> Hereketiniz: Situp Sayi: 50 
+1. islem------------>>>>>>>> Hereketiniz: Squat Sayi: 50 
